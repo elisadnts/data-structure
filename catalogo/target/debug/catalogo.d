@@ -1,0 +1,1 @@
+/workspaces/data-structure/catalogo/target/debug/catalogo: /workspaces/data-structure/catalogo/src/catalogo.rs /workspaces/data-structure/catalogo/src/main.rs /workspaces/data-structure/catalogo/src/produto.rs /workspaces/data-structure/catalogo/src/trie.rs
